@@ -1,0 +1,76 @@
+{
+  "category": [
+    {
+      "category_1": [
+        {
+          "wallpaper_name": "Animal",
+  	  "wallpaper_count": 50,
+          "wallpaper_path": "Animal/animal_"
+        }
+      ],
+      "category_2": [
+        {
+          "wallpaper_name": "City",
+ 	  "wallpaper_count": 42,
+       	  "wallpaper_path": "City/city_"
+        }
+      ],
+    "category_3": [
+        {
+          "wallpaper_name": "Flower",
+ 	  "wallpaper_count": 50,
+       	  "wallpaper_path": "Flower/flower_"
+        }
+      ],
+    "category_4": [
+        {
+          "wallpaper_name": "Galaxy",
+ 	  "wallpaper_count": 40,
+       	  "wallpaper_path": "Galaxy/galaxy_"
+        }
+      ],
+    "category_5": [
+        {
+          "wallpaper_name": "Landscapes",
+ 	  "wallpaper_count": 36,
+       	  "wallpaper_path": "Landscapes/landscapes_"
+        }
+      ],
+    "category_6": [
+        {
+          "wallpaper_name": "Love",
+ 	  "wallpaper_count": 46,
+       	  "wallpaper_path": "Love/love_"
+        }
+      ],
+    "category_7": [
+        {
+          "wallpaper_name": "Natural",
+ 	  "wallpaper_count": 24,
+       	  "wallpaper_path": "Natural/natural_"
+        }
+      ],
+    "category_8": [
+        {
+          "wallpaper_name": "Space",
+ 	  "wallpaper_count": 19,
+       	  "wallpaper_path": "Space/space_"
+        }
+      ],
+    "category_9": [
+        {
+          "wallpaper_name": "Valentines",
+ 	  "wallpaper_count": 40,
+       	  "wallpaper_path": "Valentines/valentines_"
+        }
+      ],
+ "category_10": [
+        {
+          "wallpaper_name": "Winter",
+ 	  "wallpaper_count": 50,
+       	  "wallpaper_path": "Winter/winter_"
+        }
+      ]
+    }
+  ]
+}
